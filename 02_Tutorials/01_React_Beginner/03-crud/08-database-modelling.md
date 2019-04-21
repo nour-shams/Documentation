@@ -33,7 +33,7 @@ Let's remind ourselves of our database schema.
 
 This is what it is:
 
-![the contacts table, with two fields, name and email](../../00_React_Assets/08-database-modelling-contacts-01.png)
+![the contacts table, with two fields, name and email](../Assets/08-contacts-01.png)
 
 And this would be the migration file for it.
 
@@ -84,7 +84,7 @@ Let's add the migration we need. Add a new file, `002-users` to the `migrations`
 
 This is the new schema we're going for:
 
-![the contacts table and users table, with a connection](../../00_React_Assets/08-database-modelling-contacts-02.png)
+![the contacts table and users table, with a connection](../Assets/08-contacts-02.png)
 
 ```sql
 --------------------------------------------------------------------------------

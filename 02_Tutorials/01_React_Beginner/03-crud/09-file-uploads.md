@@ -66,14 +66,14 @@ We're going to add the new property in `db.js` and `controller.js`. Since we're 
  * Joins multiple statements. Useful for `WHERE x = 1 AND y = 2`, where the number of arguments is variable.
  * 
  * Usage:
- * ```js
+ * 
  * joinSQLStatementKeys( ["name", "age", "email"], { email:"x@y.c", name="Z"}, ", ")
- * ```
+ * 
  * 
  * Will return an SQL statement corresponding to the string:
- * ```js
+ * 
  * name="Z", email="x@y.c"
- * ```
+ * 
  * 
  * @param {Array} keys an array of strings representing the properties you want to join 
  * @param {Object} values an object containing the values 
@@ -171,7 +171,7 @@ const initializeDatabase = async () => {
     ...
     try {
       const statement = SQL`SELECT contact_id AS id, name, email, date, image, author_id FROM contacts WHERE ${orderBy} > ${startingId}`;
-      
+
 ```
 
 Done! Let's see how to handle uploads now
