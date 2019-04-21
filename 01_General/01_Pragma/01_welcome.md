@@ -39,5 +39,3 @@ You are going to:
 3. You can choose whatever nickname you prefer for Discord in general, but you will use your real name in the Codi chat specifically (there's an option to set your nickname per-server)
 
 I want you all there as soon as possible, as we will follow up with instructions on Discord very shortly.
-
-If you have any problem, do not hesitate to contact me on this phone number or on my email (jad@codi.tech)
