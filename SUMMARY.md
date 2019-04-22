@@ -93,4 +93,5 @@
     * [Something interesting](07_Non_Pogramming/something-interesting.md)
     * [Team Name & Logo](07_Non_Pogramming/team-name-logo.md)
     * [Group Research & Illustrations](07_Non_Pogramming/group-research-illustration.md)
+    * [Social Media Networking](07_Non_Pogramming/social-media-networking.md)
     * [Interactive Story : Part 1](07_Non_Pogramming/interactive-story-Part1.md)
