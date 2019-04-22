@@ -39,3 +39,6 @@ Normal work days
 ## Friday
 
 Ends with a masterclass
+
+
+*** Sechule is subject to change at any moment ***
