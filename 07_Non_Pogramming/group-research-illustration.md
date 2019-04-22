@@ -13,7 +13,7 @@
 ### Test Rewards
 - For each student who passes your test, you get 🔑x1. 
 - If every students passes the test, you get 🔑x30. 
-- If the teacher feels your test is invalid, you get -🔑x10
+- If the teacher feels your test is invalid, you get **-**🔑x10
 
 ### List
 

@@ -89,8 +89,8 @@
     * [sportswear-shop](06_Group_Projects/sportswear-shop.md)
     * [booking-app-brief](06_Group_Projects/booking-app-brief.md)
 
-* [Non-Programming](07_Non_Pogramming/REAMDE.md)
-    * [Something Interesting](07_Non_Pogramming/something-interesting.md)
+* [Non-Programming](07_Non_Pogramming/README.md)
+    * [Something interesting](07_Non_Pogramming/something-interesting.md)
     * [Team Name & Logo](07_Non_Pogramming/team-name-logo.md)
     * [Group Research & Illustrations](07_Non_Pogramming/group-research-illustration.md)
     * [Interactive Story : Part 1](07_Non_Pogramming/interactive-story-Part1.md)

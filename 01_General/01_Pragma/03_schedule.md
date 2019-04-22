@@ -41,4 +41,4 @@ Normal work days
 Ends with a masterclass
 
 
-*** Sechule is subject to change at any moment ***
+**Sechule is subject to change at any moment**
