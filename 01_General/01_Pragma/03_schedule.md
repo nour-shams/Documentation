@@ -41,8 +41,8 @@ Logic Session : 15:00 - 17:00 P.M
 Logic Lab : 15:00 - 17:00 P.M
 
 ### Friday
-Research & Presentation : 11:00 A.M
-Workshops : 2:00 - 5:00 P.M
+- Research & Presentation : 11:00 A.M
+- Workshops : 2:00 - 5:00 P.M
 
 # English 
 ### Masterclass
@@ -50,8 +50,8 @@ Friday 9:00 - 11:00 A.M
 ### Strong Group
 Monday : 15:00 - 17:00 P.M
 ### Weaker Group
-Monday : 9:00 - 11:00 A.M
-Wednesday : 9:00 - 11:00 A.M
+- Monday : 9:00 - 11:00 A.M
+- Wednesday : 9:00 - 11:00 A.M
 
 
 **Sechule is subject to change at any moment**
