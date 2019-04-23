@@ -33,14 +33,12 @@ Management and planning time
 # Weekly Schedule
 
 # General
-### Monday
-Work time.
 
 ### Tuesday
-Session : 15:00 - 17:00 P.M
+Logic Session : 15:00 - 17:00 P.M
 
 ### Thursday 
-Lab : 15:00 - 17:00 P.M
+Logic Lab : 15:00 - 17:00 P.M
 
 ### Friday
 Research & Presentation : 11:00 A.M
