@@ -21,6 +21,12 @@ The symbol 🔑 was chosen, because:
 - it rings nice and is reminiscent of "keys of knowledge"
 - it has an UTF8 symbol, which makes it suitable for usage in plain text documents or anywhere without having to use a different symbol or an image
 
+## Solution
+
+The class, as a whole, accrues keys. Keys are listed [on this sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvY51Q9wr66VOjbZtw7gc8VhpszFg_DRfgh5NZAwignZt1YCKFwhxUCQ13d8rh7BSWprWWPkF-Aul0/pubhtml?gid=1413400133&single=true), by date, and with the reason for each acquiring of key.
+
+This allows to see progress, as well as track individual or group achievements, while keeping the focus on the 🔑 accrued overall.
+
 ## How do you accrue keys?
 
 The exercises, listed [here](https://gitlab.com/coditech/repository) and on Trello, all feature a minimum and maximum amount of points that the students can accrue by doing them.
