@@ -1,0 +1,3 @@
+# Exercises Template
+
+* TODO

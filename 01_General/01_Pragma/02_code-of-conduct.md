@@ -1,26 +1,24 @@
 # Codi Code of Conduct
 
-I, ___________________ , pledge to abide by the following rules.
+I ……………………………………. Pledge that I will abide by the following rules and guidelines during my time at Codi.
 
 
-| I Will:                                                                                                          | ✓ |
+### Rules and Regulations                    
+||
 |------------------------------------------------------------------------------------------------------------------|--|
-| Try to the best of my abilities to always arrive on time. If I can’t, I will warn my peers as early as possible. |  |
-| Try to the best of my abilities to not skip classes. If I must, I will try to be present online, and I will catch up on what I missed later. |  |
-| Refrain from bothering others, keep my voice low and my presence light. |  |
-| Protect the cleanliness of my environment, clean after myself and after others alike. |  |
-| Use the short time I have at Codi efficiently and work diligently to achieve as much as I can. |  |
-| Be curious about the things I learn, proactive, and dig at least a bit further than I’m officially asked to. |  |
-| Consider my failures as part of the learning process and not be ashamed of them. |  |
-| Help my fellow students learn when I can. |  |
+| Be at Codi at by 8:45 A.M. Classes start at 9:00 A.M! If you are not in class at 9:00 A.M, you will be sent home. |  |
+| 3 unexcused latenesses will result in your termination at Codi. |  |
+| Respect the personal space of those around you and keep the noise level down. |  |
+| Keep the environment clean and tidy after yourself. |  |
+| Treat others with respect at ALL times. Use your awareness to know your limits and DO NOT enforce your presence on others. |  |
+| Be silent when you are in a lesson. Do not talk at all when others are speaking/presenting. |  |
+
+### Learning and Development 
+||
+|------------------------------------------------------------------------------------------------------------------|--|
+| Always do your best to work efficiently and make use of your time at Codi to achieve all I can. |  |
+| Be proactive and use your initiative to take extra steps without being asked. |  |
+| Consider your failures as part of the learning process and not be ashamed of them. |  |
 | Stay motivated despite the inevitable moments of disappointment and failure. |  |
-
-
-I, the undersigned, hereby confirm that I agree to the above
-
-Signature:
-
-
-______________________________
-
-____________, the __ / __ /20__
+| Help and mentor your fellow students when you can. |  |
+| Be a part of a team and do your best to drive the team forward at all times. |  |
