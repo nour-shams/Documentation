@@ -1,35 +1,14 @@
-# GIT & Github
+# Version Control & Git
 
-This exercise will ask to do some very simple operations with Git & Github.
+* **Version Control**: is a way to keep track of your files at different points in time. Using it is like having a giant UNDO button for your project. It solves a problem that might look familiar if you’ve ever seen documents with names like Report_2014_1.doc, Report_2014_2.doc, Report_2014_3.doc, or budget-v7.xls to keep track of your different versions. 
 
-Feel free to replace all mentions to Github by Gitlab if you prefer.
+* Fluency in at least one version control system is an essential skill for a developer, designer, and manager alike.
+ 
+* There are many systems out there like RCS, CVS, and Subversion, Perforce, Bazaar, and Mercurial. Here we use the most popular open source one: Git!
 
-## Goals:
+* **Git**: was developed by Linux creator Linus Torvalds to host the Linux kernel. It is a command-line program that is designed in the Unix tradition. That is why you need to have knowledge of how to use the Unix-style commmand line.
 
-- Learn the simplest git mechanisms
-- Understand how they relate to a public git hosting website such as Github or Gitlab
-- **Competencies**: 
-  - <kbd>git basics</kbd>
-  - <kbd>github basics</kbd>
-  - <kbd>english basics</kbd>
-  - <kbd>self-branding basics</kbd>
+# Git Basics 01 & 02
 
-## Tasks
-
-- Compose your CV properly, in proper English and proper direction<kbd>🔑🔑</kbd>
-- Write your CV in markdown format (what is [markdown](http://lmgtfy.com/?q=markdown)?)<kbd>🔑</kbd>
-- Leave *on purpose* something missing in it
-- Push it to github under the name `markdown-cv`
-- Fix the problem you left out on purpose before, commit <kbd>🔑</kbd>
-- Choose an image that represents you, add it to the repository and display it in the markdown file
-- push to github
-- Open an issue in the issue tracker of this repo, with a link to your repo <kbd>🔑</kbd>
-
-*note*: You cannot submit this exercise in an incomplete state, all steps have to be done
-
-## References:
-
-- What is [Git](http://lmgtfy.com/?q=git)?
-- What is a [commit](http://lmgtfy.com/?q=what+is+git+commit)?
-- How to [display an image in markdown](http://lmgtfy.com/?q=how+to+display+an+image+in+markdown)?
-- Any other question, click [here](http://lmgtfy.com/?q=how+do+I+search+for+things+on+the+internet)
+Git basics 01 & 02 are basics introduction to local and online git system. We will also teach you how to submit your completed exercises through Github & CodiTech.
+Then we will test you with a simple git exercise [git basics trial](./git-basics-trial.md)
