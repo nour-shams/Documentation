@@ -96,7 +96,7 @@ Git won’t let us complete the initialization of the repository while it’s em
 
 This is the main Git status sequence for changing a file:
 
-![](./Assets/git_status_sequence.png)
+![](./Assets/git_01_status_sequence.png)
 
 ## 3- **Viewing the diff**
 It’s often useful to be able to view the changes represented by a potential commit before making it. 

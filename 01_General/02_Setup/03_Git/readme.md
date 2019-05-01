@@ -10,5 +10,5 @@
 
 # Git Basics 01 & 02
 
-Git basics 01 & 02 are basics introduction to local and online git system. We will also teach you how to submit your completed exercises through Github & CodiTech.
+Git basics 01 & 02 are introduction to local and online git system. We will also teach you how to submit your completed exercises through Github & CodiTech.
 Then we will test you with a simple git exercise [git basics trial](./git-basics-trial.md)
