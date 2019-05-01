@@ -95,6 +95,7 @@ Git won’t let us complete the initialization of the repository while it’s em
     *A commit is identified by a hash, which is a unique string of letters and numbers that Git uses to label the commit and which lets Git retrieve the commit’s changes.*
 
 This is the main Git status sequence for changing a file:
+
 ![](./Assets/git_status_sequence.png)
 
 ## 3- **Viewing the diff**
