@@ -36,16 +36,20 @@ We call online folder/files storage "repository or repo". A Repository is a Data
 Repositories can have private or public access. by being private a repository won't appear anywhere else than your personal space.
 while a public repository will be visible by everyone.
 
-> ! A public repository can't be modified by a non collaborator user. however they will be able to clone/fork and do merge requests.
+> ! A public repository can't be modified by a non collaborator user. however, he will be able to clone/fork and do merge requests.
 
 What is a branch ?
-A branch is an entry point in the data structure of git. It allow the system to retrieve the data you requested, The same way you call someone by his name, A Branch is identified by her name. 
 
-By default when you create a repository, a branch is created under the name of "master". You can create as many branch as you want.
+A branch is an entry point in the data structure of git. It allows the system to retrieve the data you requested, The same way you call someone by his name, A Branch is identified by her name. 
+
+A branch is created under the name of "master" by default when you create a repository. You can create as many branches as you want within the same repository.
 
 > In the process of cloning. The master branch is the default target. You will learn how to clone from another branch later on.
 
-We will learn how to create a repository later on, for now we will focus on CodiTech.
+------
+Now that you know a bit more about git. We will introduce Coditech and how general exercises are submitted. 
+
+n.b: Some of the concepts we talked about earlier are not applied here but no worries! We have prepared an exercise for you!
 
 ## CodiTech
 At Codi we have our own organization hosted on github : [CodiTech](www.github.com/coditech)
