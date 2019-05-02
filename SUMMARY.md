@@ -14,6 +14,7 @@
         * [Command lines Basics](01_General/02_Setup/02_Command_lines/readme.md)
         * [Version Control](01_General/02_Setup/03_Git/readme.md)
             * [Git Basics 01](01_General/02_Setup/03_Git/git-basics-01.md)
+            * [Git Basics 02](01_General/02_Setup/03_Git/git-basics-02.md)
             * [Git Basics Trial (Exercise)](01_General/02_Setup/03_Git/git-basics-trial.md)
         * [L.A.M.P](01_General/02_Setup/04_L.A.M.P/readme.md)
     * [Resources](01_General/03_Resources/resources.md)

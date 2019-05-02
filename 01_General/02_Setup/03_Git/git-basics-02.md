@@ -5,8 +5,9 @@ But what if you want to work in team or remotely ?
 
 Several solutions exists. The most common and free to use are Github and Gitlab.
 
-You can research more about Github vs Gitlab. Here are some links.
+You can research more about Github vs Gitlab. 
 
+Here are some links :
 * [Gitlab (Github Vs Gitlab)](https://about.gitlab.com/devops-tools/github-vs-gitlab.html)
 * [Hackernoon](https://hackernoon.com/github-vs-gitlab-which-is-better-for-open-source-projects-31c45d464be0)
 * [Google](https://www.google.com)
@@ -44,6 +45,7 @@ By default when you create a repository, a branch is created under the name of "
 
 > In the process of cloning. The master branch is the default target. You will learn how to clone from another branch later on.
 
+We will learn how to create a repository later on, for now we will focus on CodiTech.
 
 ## CodiTech
 At Codi we have our own organization hosted on github : [CodiTech](www.github.com/coditech)
