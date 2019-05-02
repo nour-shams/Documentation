@@ -2,7 +2,6 @@
 
 This exercise will ask to do some very simple operations with Git & Github.
 
-Feel free to replace all mentions to Github by Gitlab if you prefer.
 
 ## Goals:
 
