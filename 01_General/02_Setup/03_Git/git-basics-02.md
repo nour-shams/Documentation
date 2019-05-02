@@ -107,9 +107,9 @@ In case you need to update your repository read the instruction located [here](h
 Git system is huge and it can be tiresome when you have to deal with problems. Fortunatly there is many alternative solution to command lines and we call them Git Managers.
 
 Most used at the momment.
-  1. [GitKraken](https://www.gitkraken.com/) **Cross-Platform**
-  2. [PocketGit](http://pocketgit.com/) **Android**
-  3. [Git2Go](https://git2go.com/) **IOS**
+* [GitKraken](https://www.gitkraken.com/) **Cross-Platform**
+* [PocketGit](http://pocketgit.com/) **Android**
+* [Git2Go](https://git2go.com/) **IOS**
 
 Of course, there's plenty of other softwares. Here is the list : [git-scm](https://git-scm.com/downloads/guis/)
 
