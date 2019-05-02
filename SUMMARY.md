@@ -61,6 +61,7 @@
 
 * [Exercises](03_Exercises/README.md)
     * [HTML](03_Exercises/01_HTML/README.md)
+        *[Portfolio Part I](03_Exercises/01_HTML/portfolio-part-01.md)
     * [CSS](03_Exercises/02_CSS/README.md)
         * [CV Styling](03_Exercises/02_CSS/cv-styling-master/readme.md)
     * [JavaScript](03_Exercises/03_JavaScript/README.md)
