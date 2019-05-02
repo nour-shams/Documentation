@@ -25,7 +25,7 @@ You can refer to w3schools tutorials [here](https://www.w3schools.com/html/defau
 - Clone it on your laptop
 - Install Visual Studio Code
 
-### HTML
+### HTML PART I
 
 In this part of the exercise, you will develop the three pages mentioned above using only HTML (no styling, no features): 
 1. Create a **Home** page that includes information about you (name, title, bio, picture, education, experience)
@@ -37,7 +37,7 @@ In this part of the exercise, you will develop the three pages mentioned above u
 4. Create a **Menu** that can be used to navigate between the pages, and include it in all the pages
 8. Commit ("HTML") 🔑🔑🔑
 
-### CSS
+### CSS PART II
 
 In this part, you will design the previously developed portfolio
 1. Change font families, font sizes, colors
@@ -45,7 +45,7 @@ In this part, you will design the previously developed portfolio
 3. Add images and background images
 4. Commit ("CSS") 🔑🔑🔑🔑
 
-### React
+### React PART III
 
 Wow! You've reached this part, you must be good. Well, here's a hard one.
 
