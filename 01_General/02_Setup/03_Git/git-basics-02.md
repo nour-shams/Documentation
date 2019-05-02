@@ -16,7 +16,34 @@ But instead of **push** your change locally, you will **push** them online so yo
 
 > During your **Codi training** you will use Github. Why ? Because Github provides us with certain solutions such as Gitbook and bigger exposure on the internet for potential employers.
 
-We call online folder/files storage "repository or repo". They hold your project. A repository can have many branches. A repository can be private or public and can have one or many collaborators. (this part here is a little confusing because we still havent been introduced to the concenpt or branches, private, public, collaborators, fork)
+## Online Git Concept & Important Terms
+Online git provide us with plenty of new tools and commands.
+
+#### Important git Commands
+1. CLONE : This is how you get the files on your computer by downloading the online repository to your local machine. 
+2. FORK : With any online version control manager you have the ability to 'copy' a repository to your own personal space. So you can work on it on your own or with your team, without altering the original repository files.
+3. PULL : Sometime your local folder is not up to date. Git pull will grab all the recent changes and update it for you. You can't pull if there is active changes that has not been staged.
+4. MERGE : Merge & Merge Request. They are the root of team sharing. When you or your collaborator will do a change on his repository or branch and you may request to update the changes. 
+> Merge can have conflicts. For instance if the same file is edited twice by two different person git will ask you to verify and edit the changes manually.
+
+#### Local vs Online 
+The difference between online and local git is that you are **not** going to use **.git init**. Instead clone will bind your folder to the online repository.
+
+#### Repositories
+We call online folder/files storage "repository or repo". Repositories are git Data Structure that hold everything your project contains e.g : files, commits, *branches...
+
+Repositories can have private or public access. by being private a repository won't appear anywhere else than your personal space.
+while a public repository will be visible by everyone.
+
+> ! A public repository can't be modified by a non collaborator user. however they will be able to clone/fork and do merge requests.
+
+What is a branch ?
+Branches are entry points in the data structure of git. It allow the system to retrieve the data you requested, The same way you call someone by his name, A Branch is identified by her name. 
+
+By default when you create a repository, a branch is created under the name of "master". However you can create as many branch as you want.
+
+> In the process of cloning. The master branch is the default target. You will learn how to clone from another branch later on.
+
 
 ## CodiTech
 At Codi we have our own organization hosted on github : [CodiTech](www.github.com/coditech)
@@ -41,15 +68,6 @@ What is fork ? [Secret](https://help.github.com/en/articles/fork-a-repo)
 > **If the join button does not appear then please send us your github nickname on discord**
 
 Good you're all set !
-#### Brief 
-The difference between online and local git is that you are **not** going to use **.git init**. Instead clone will bind your folder to the online repository.
-
-##### Important Terms
-1. CLONE : This is how you get the files on your computer by downloading the online repository to your local machine. 
-2. FORK : With any online version control manager you have the ability to 'copy' a repository to your own personal space. So you can work on it on your own or with your team, without altering the original repository files.
-3. PULL : Sometime your local folder is not up to date. Git pull will grab all the recent changes and update it for you. You can't pull if there is active changes that has not been staged.
-4. MERGE : Merge & Merge Request. They are the root of team sharing. When you or your collaborator will do a change on his repository or branch and you may request to update the changes. 
-> Merge can have conflicts. For instance if the same file is edited twice by two different person git will ask you to verify and edit the changes manually.
 
 ## Submission Repository
 During prairie you will have to do some exercises to get keys. These exercises will have to be pushed in a submission folder.
