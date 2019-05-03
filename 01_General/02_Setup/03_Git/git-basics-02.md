@@ -3,7 +3,7 @@
 As you have learned previously with Git basic 01, you can create a local directory to keep track of your changes.
 But what if you want to work in team or remotely ?
 
-Several solutions exists. The most common and free to use are Github and Gitlab.
+Several solutions exist. The most common and free to use are Github and Gitlab.
 
 You can research more about Github vs Gitlab. 
 
@@ -18,14 +18,21 @@ But instead of **push** your change locally, you will **push** them online so yo
 > During your **Codi training** you will use Github. Why ? Because Github provides us with certain solutions such as Gitbook and bigger exposure on the internet for potential employers.
 
 ## Online Git Concept & Important Terms
-Online git provide us with plenty of new tools and commands. Some of them are more important than others, in our case we will learn 4 of them. It should be enough to get you started.
+Online Git provides us with plenty of new tools and commands. Some of them are more important than others, in our case we will learn 4 of them. It should be enough to get you started.
 
 #### Essential Git Commands
 1. CLONE : This is how you get the files on your computer by downloading the online repository to your local machine. 
+<<<<<<< HEAD
 2. PULL : Sometime your local folder is not up to date. Git pull will grab all the recent changes and update it for you. You can't pull if there is active changes that has not been staged.
 3. FORK : With any online version control manager you have the ability to 'copy' a repository to your own personal space we call this a 'fork'. So you can work on it on your own or with your team, without altering the original repository files.
 4. MERGE : Merge & Pull Request. They are the root of team sharing. When you or your collaborator will do a change on his repository or branch and you may request to update the changes you have made. 
 > Merge can have conflicts. For instance if the same file is edited twice by two different person git will ask you to verify and edit the changes manually.
+=======
+2. PULL : Sometime your local folder is not up to date. Git pull will grab all the recent changes and update it for you. You can't pull if there are active changes that have not been staged.
+3. FORK : With any online version control manager you have the ability to 'copy' a repository to your own personal online space. We call this a 'fork'. So you can work on it on your own or with your team, without altering the original repository files.
+4. MERGE : Merge & Merge Request. They are the root of team sharing. When you or your collaborator will do a change on your repository or branch, you may request to update the changes. 
+> Merge can have conflicts. For instance if the same file is edited twice by two different person Git will ask you to verify and edit the changes manually.
+>>>>>>> 53985563e30e1173c466f2d8076f6682a58cbf42
 
 #### Local vs Online 
 The difference between online and local git is that you are **not** going to use **.git init**. Instead clone will bind your folder to the online repository.
@@ -33,21 +40,21 @@ The difference between online and local git is that you are **not** going to use
 #### Repositories
 We call online folder/files storage "repository or repo". A Repository is a Data Structure that holds everything your project contains e.g. : files, commits, *branches...
 
-Repositories can have private or public access. by being private a repository won't appear anywhere else than your personal space.
-while a public repository will be visible by everyone.
+Repositories can have private or public access. By being private a repository won't appear anywhere else other than your personal space.
+A public repository will be visible to everyone.
 
-> ! A public repository can't be modified by a non collaborator user. however, he will be able to clone/fork and do merge requests.
+> ! A public repository can't be modified by a non collaborator user. However, he will be able to clone/fork and do merge requests.
 
 What is a branch ?
 
-A branch is an entry point in the data structure of git. It allows the system to retrieve the data you requested, The same way you call someone by his name, A Branch is identified by her name. 
+A branch is an entry point in the data structure of Git. It allows the system to retrieve the data you requested, The same way you call someone by his name. A Branch is identified by its name. 
 
 A branch is created under the name of "master" by default when you create a repository. You can create as many branches as you want within the same repository.
 
 > In the process of cloning. The master branch is the default target. You will learn how to clone from another branch later on.
 
 ------
-Now that you know a bit more about git. We will introduce Coditech and how general exercises are submitted. 
+Now that you know a bit more about Git. We will introduce Coditech and how general exercises are submitted. 
 
 n.b: Some of the concepts we talked about earlier are not applied here but no worries! We have prepared an exercise for you!
 
@@ -56,7 +63,7 @@ At Codi we have our own organization hosted on github : [CodiTech](www.github.co
 
 It contains multiple repositories. These are the main ones :
 * Documentation 
-> This is for Gitbook, All of the documentation files are hosted there. You will not need to **fork** this.
+> This is for Gitbook. All of the documentation files are hosted there. You will not need to **fork** this.
 * Submission Folder
 > This will be the main repository for your exercises and challenges.
 * Team Projects (e.g. Prefab-Houses)
@@ -67,7 +74,7 @@ What is fork ? [Secret](https://help.github.com/en/articles/fork-a-repo)
 ## Setup 
 #### Github
 1. Lets create a [Github Account](https://github.com/join?source=header-home)
-> Fill the form and don't forget to add a picture so we can recognize each others =)
+> Fill the form and don't forget to add a picture so we can recognize each other =)
 2. Visit Coditech [CodiTech](https://github.com/coditech)
 > Great ! You can now navigate threw the different repositories of coditech. **don't close the tab**
 3. (Optional) Join the Codi tech Organization !
@@ -92,7 +99,7 @@ Get to the Submission repository and lets fork it to our own repository space.
 ```sh
     $(username): git clone **paste your link (ctrl + shift + v)**
 ```
-> By default clone command will create a folder named like your online repository, in our case it will be **Submission**. You can override this by adding an additional argument in the command line as follows.
+> By default the clone command will create a folder named like your online repository, in our case it will be **Submission**. You can override this by adding an additional argument in the command line as follows.
 ```sh
     $(username): git clone **paste your link (ctrl + shift + v)** YOURFOLDERNAME
 ```
@@ -104,16 +111,9 @@ Get to the Submission repository and lets fork it to our own repository space.
 In case you need to update your repository read the instruction located [here](https://gist.github.com/CristinaSolana/1885435#gistcomment-2857738) 
 
 ## Git Software Manager
-Git system is huge and it can be tiresome when you have to deal with problems. Fortunatly there is many alternative solution to command lines and we call them Git Managers.
+Git system is huge and it can be tiresome when you have to deal with problems. Fortunately there are many alternative solutions to command lines and we call them Git Managers.
 
-Most used at the momment.
-* [GitKraken](https://www.gitkraken.com/) **Cross-Platform**
-* [PocketGit](http://pocketgit.com/) **Android**
-* [Git2Go](https://git2go.com/) **IOS**
-
-Of course, there's plenty of other softwares. Here is the list : [git-scm](https://git-scm.com/downloads/guis/)
-
-Fortunately for us we won't have to use any of those. Instead we have Visual Studio Code. VS Code has an integrated git manager. I recommend watching this video to know more about it. [VSCode Tutorials #4 - Git Integration](https://www.youtube.com/watch?v=6n1G45kpU2o)
+Fortunately for us we won't have to use any of those. Instead we have Visual Studio Code. VS Code has an integrated Git manager. I recommend watching this video to know more about it. [VSCode Tutorials #4 - Git Integration](https://www.youtube.com/watch?v=6n1G45kpU2o)
 
 ## Next..
 You are done with Git-basics? Move on to the Git-basic-trial and show us what you got ! 
