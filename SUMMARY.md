@@ -77,7 +77,7 @@
     * [React](03_Exercises/05_React/README.md)
 
 * [Challenges](04_Challenges/README.md)
-    * [HTML Challenge](04/Challenges/HTML/html_challenge.md)
+    * [HTML Challenge](04_Challenges/HTML/html_challenge.md)
     * [Financial Tracker](04_Challenges/FinancialTracker/readme.md)
     * [Snake-Master](04_Challenges/snake-master/readme.md)
     * [Socket.IO](04_Challenges/Socket/readme.md)
