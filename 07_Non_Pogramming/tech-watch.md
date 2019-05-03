@@ -1,10 +1,11 @@
-# Tech Watches 🔑x10
+# Tech Watches
 
 This is an exercise that will help develop your tech awareness skills.
 Reading tech related articles on a daily bases for a dedicated amount of time will keep you immersed in the tech world and keep you up to date on the latest technologies, methodologies, etc..
 This can be done by one person per day. So coordinate between yourselves!
 
-Tech Watches will take place every day at 2:00 P.M after the break.
+Tech Watches will take place every day at 2:00 P.M after the break. 
+It should last at maximum 10 minutes and it is rewared with 🔑x10.
 
 **Articles Resources list**
 
