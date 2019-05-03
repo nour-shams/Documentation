@@ -41,6 +41,7 @@
 * Link the Html to the style sheet.
 * Take a look at this image below: 
 
+
 ![](./Assets/HTML3)
 
 * Build a page that contains all the HTML elements in the image.
