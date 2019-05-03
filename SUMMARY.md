@@ -95,7 +95,7 @@
     * [booking-app-brief](06_Group_Projects/booking-app-brief.md)
 
 * [Non-Programming](07_Non_Pogramming/README.md)
-    * [Tech-Watch](07_Non_Programming/tech-watch.md)
+    * [Tech-Watch](07_Non_Pogramming/tech-watch.md)
     * [Something interesting](07_Non_Pogramming/something-interesting.md)
     * [Team Name & Logo](07_Non_Pogramming/team-name-logo.md)
     * [Group Research & Illustrations](07_Non_Pogramming/group-research-illustration.md)
