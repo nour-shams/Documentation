@@ -24,7 +24,7 @@ Online git provide us with plenty of new tools and commands. Some of them are mo
 1. CLONE : This is how you get the files on your computer by downloading the online repository to your local machine. 
 2. PULL : Sometime your local folder is not up to date. Git pull will grab all the recent changes and update it for you. You can't pull if there is active changes that has not been staged.
 3. FORK : With any online version control manager you have the ability to 'copy' a repository to your own personal space we call this a 'fork'. So you can work on it on your own or with your team, without altering the original repository files.
-4. MERGE : Merge & Merge Request. They are the root of team sharing. When you or your collaborator will do a change on his repository or branch and you may request to update the changes. 
+4. MERGE : Merge & Pull Request. They are the root of team sharing. When you or your collaborator will do a change on his repository or branch and you may request to update the changes you have made. 
 > Merge can have conflicts. For instance if the same file is edited twice by two different person git will ask you to verify and edit the changes manually.
 
 #### Local vs Online 
