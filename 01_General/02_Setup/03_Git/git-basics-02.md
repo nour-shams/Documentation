@@ -22,17 +22,10 @@ Online Git provides us with plenty of new tools and commands. Some of them are m
 
 #### Essential Git Commands
 1. CLONE : This is how you get the files on your computer by downloading the online repository to your local machine. 
-<<<<<<< HEAD
 2. PULL : Sometime your local folder is not up to date. Git pull will grab all the recent changes and update it for you. You can't pull if there is active changes that has not been staged.
 3. FORK : With any online version control manager you have the ability to 'copy' a repository to your own personal space we call this a 'fork'. So you can work on it on your own or with your team, without altering the original repository files.
 4. MERGE : Merge & Pull Request. They are the root of team sharing. When you or your collaborator will do a change on his repository or branch and you may request to update the changes you have made. 
 > Merge can have conflicts. For instance if the same file is edited twice by two different person git will ask you to verify and edit the changes manually.
-=======
-2. PULL : Sometime your local folder is not up to date. Git pull will grab all the recent changes and update it for you. You can't pull if there are active changes that have not been staged.
-3. FORK : With any online version control manager you have the ability to 'copy' a repository to your own personal online space. We call this a 'fork'. So you can work on it on your own or with your team, without altering the original repository files.
-4. MERGE : Merge & Merge Request. They are the root of team sharing. When you or your collaborator will do a change on your repository or branch, you may request to update the changes. 
-> Merge can have conflicts. For instance if the same file is edited twice by two different person Git will ask you to verify and edit the changes manually.
->>>>>>> 53985563e30e1173c466f2d8076f6682a58cbf42
 
 #### Local vs Online 
 The difference between online and local git is that you are **not** going to use **.git init**. Instead clone will bind your folder to the online repository.
