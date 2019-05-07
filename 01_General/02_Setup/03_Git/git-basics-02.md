@@ -107,31 +107,43 @@ In order to keep our Submission Folder Updated with the Coditech Repository we w
 Follow the steps in order to add a remote access to coditech.
 1. Locate Submission Folder on your computer (the one you cloned previously).
 2. Open your terminal/(Konsole *arch*)  (within the Submission Folder) 
-3. Write ```sh git status ``` and verify you have no active changes. 
+3. Write the command and verify you have no active changes. 
+```sh git status``` 
+
 > *If you have active change, Commit and Push before next steps*
+
 4. Still in your terminal (within the submission folder) write the following command
+
 ```sh
   git remote add upstream https://github.com/coditech/Submissions.git
 ```
+
 > With git Remote we say to our git system to locate coditech/submission repository and add it as 'upstream'
+
 5. Verify if the Remote is correctly added
+
 ```sh
   git remote -v
 ```
+
 You should now see the following output :
+
 ```sh
   origin  https://github.com/github_username/submissions.git (fetch)
   origin  https://github.com/github_username/submissions.git (push)
   upstream        https://github.com/coditech/Submissions.git (fetch)
   upstream        https://github.com/coditech/Submissions.git (push)
 ```
+
 As you can see 'origin' is pointing to your own github account while 'upstream' is pointing to coditech. Perfect...
 
 6. We will now update our local repository. for this you will need two command. Run the following in your terminal (within your submission folder)
+
 ```sh
   git fetch upstream
   git pull upstream master
 ```
+
 > git fetch will simply verify that your repository is able to recieve updates from the upstream (coditech).
 
 > git pull will get all the new files from coditech and update your local repository.
