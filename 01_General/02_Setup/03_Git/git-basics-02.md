@@ -100,16 +100,21 @@ Get to the Submission repository and lets fork it to our own repository space.
 
 > You can download manually a repository without cloning but this will not include the .git files
 
-#### Submission Repository Updates
-*!! Submission folder might recieve updates at any time !!*
+*** !! Submissions folder might recieve updates at any time !! ***
 
-In order to keep our Submission Folder Updated with the Coditech Repository we will add a Remote access to our local git.
-Follow the steps in order to add a remote access to coditech.
+#### Submissions Repository Updates
+
+In order to keep our Submissions folder updated with the coditech repository we will add a remote access.
+
+The following steps will show you how to add a remote access. In our case the new remote will be Coditech.
 
 1. Locate Submission Folder on your computer (the one you cloned previously).
-2. Open your terminal/(Konsole *arch*)  (within the Submission Folder) 
+2. Open your terminal/(Konsole *** arch ***)  (within the Submission Folder) 
 3. Write the command and verify you have no active changes. 
-```sh git status``` 
+
+```sh 
+  git status
+``` 
 
 > *If you have active change, Commit and Push before next steps*
 
@@ -158,7 +163,7 @@ git push origin master
 
 Voilà, Your set !
 
-Note : Next time you will need to update your repository simply redo the steps 3, 6 and 7.  
+*** Note ***: Next time you will need to update your repository simply redo the steps 3, 6 and 7.  
 
 Ressources : [Github](https://gist.github.com/CristinaSolana/1885435#gistcomment-2857738) 
 
