@@ -104,7 +104,7 @@ Get to the Submission repository and lets fork it to our own repository space.
 
 #### Submissions Repository Updates
 
-In order to keep our Submissions folder updated with the coditech repository we will add a remote access.
+In order to keep our Submissions folder updated with the coditech repository we will add a [remote access (stackoverflow)](https://stackoverflow.com/questions/13786781/what-does-git-remote-add-exactly-do)
 
 The following steps will show you how to add a remote access. In our case the new remote will be Coditech.
 
@@ -116,7 +116,7 @@ The following steps will show you how to add a remote access. In our case the ne
 ```sh 
   git status
 ``` 
-> *If you have active change, Commit and Push before next steps*
+> *If you have active changes, Commit and Push before next steps*
 
 ##### Step 4 : Adding Remote
 * Still in your terminal (within the submission folder) write the following command
