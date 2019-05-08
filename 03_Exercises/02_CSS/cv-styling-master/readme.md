@@ -35,8 +35,7 @@ Note: Before reaching the last step, you should **not** touch the HTML. You *may
 
 ### 1 - Preparing:
 
-1. Press <kbd>fork</kbd> at the top of this page.
-1. clone the forked repository to your computer (`git clone <your repo>`)
+1. Get into your submission folder. Exercises > CV-Styling.
 
 ### 2 - Implement Style 1:
 
@@ -86,7 +85,7 @@ Here is some inspiration: [10 handy tips for web design cvs and resumes](https:/
 
 1. Don't panic! One step at a time
 1. Don't forget to push back changes from time to time (`git add -A`, then `git commit -m "message"` then `git push -u origin master`)
-1. When you're satisfied, submit a [Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) (On Github, it's called a [Pull Request](https://help.github.com/articles/about-pull-requests/))
+1. When you're satisfied, submit a *Pull Request* on github.
 
 
 ## Images:
