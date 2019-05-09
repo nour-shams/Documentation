@@ -35,7 +35,7 @@ So, here is your first task:
 You are going to:
 
 1. Create an account on Discord; Discord is a chat application. There are apps for mobile, and desktop. You can also use your browser.
-2. Log in to Codi's Discord server by following this link: https://discord.gg/SC85mQ4
+2. Log in to Codi's Discord server by following this link: https://discord.gg/vrkFgu
 3. You can choose whatever nickname you prefer for Discord in general, but you will use your real name in the Codi chat specifically (there's an option to set your nickname per-server)
 
 I want you all there as soon as possible, as we will follow up with instructions on Discord very shortly.
