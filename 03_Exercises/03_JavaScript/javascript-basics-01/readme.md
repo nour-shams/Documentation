@@ -29,7 +29,7 @@
 ## Step 2 : Variables 2
 
 1. Define three variables: `name`, `surname` and `city`.
-2. Show them like in the [image](Step_2.png)
+2. Show them like in the ![](Step_2.png)
 3. Commit!
 
 ## Step 3 : Strings concatenation
