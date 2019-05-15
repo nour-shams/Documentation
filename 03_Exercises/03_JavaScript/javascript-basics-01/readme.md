@@ -1,6 +1,6 @@
 # JavaScript Basics 1 - Variables, Functions, and Branching
 
-- Get to your submission folder under the folder exercises/javascript-basics-01
+- Get to your submission folder under exercises/javascript-basics-01
 - Each step has a prepared html file to work with, use it
 - COMMIT AFTER EACH STEP, call each commit by the name of the step
 
