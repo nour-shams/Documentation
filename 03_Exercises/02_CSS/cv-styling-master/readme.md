@@ -24,7 +24,7 @@
 
 1. Implement the style depicted in [style1.png](style1.png). Try to get as close as possible.
 1. Implement the mobile styles in [style1-mobile.png](style1-mobile.png)
-1. Implement the style depicted in [style2.png](style1.png). Try to get as close as possible.
+1. Implement the style depicted in [style2.png](style2.png). Try to get as close as possible.
 1. Implement the mobile styles in [style2-mobile.png](style2-mobile.png)
 1. Edit the HTML so it reflects your own information
 1. Implement your own Style
