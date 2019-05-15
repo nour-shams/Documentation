@@ -80,8 +80,4 @@
 ## Congrats!
 
 You finished Javascript Basics 1!
-<<<<<<< HEAD
 Send a pull request.
-=======
-Send a merge/pull request
->>>>>>> 76fd56eeff2284cbdfca107015ec0c805a2f9038
