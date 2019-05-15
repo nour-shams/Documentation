@@ -1,6 +1,6 @@
 # Javascript Basics 2 - Working with the DOM
 
-- Get to your submission folder under the folder exercises/javascript-basics-02
+- Get to your submission folder under exercises/javascript-basics-02
 - Each step has a prepared html file to work with, use it
 - COMMIT AFTER EACH STEP, call each commit by the name of the step
 
