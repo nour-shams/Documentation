@@ -1,7 +1,6 @@
 # JavaScript Basics 1 - Variables, Functions, and Branching
 
-- Fork this repository
-- Clone your fork on your pc
+- Get to your submission folder under the folder exercises/javascript-basics-01
 - Each step has a prepared html file to work with, use it
 - COMMIT AFTER EACH STEP, call each commit by the name of the step
 
@@ -81,4 +80,4 @@
 ## Congrats!
 
 You finished Javascript Basics 1!
-Send a merge/pull request
+Send a pull request.

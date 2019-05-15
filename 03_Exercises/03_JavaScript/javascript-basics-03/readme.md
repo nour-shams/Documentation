@@ -1,7 +1,6 @@
 # Javascript Basics 3 - Style Manipulation
 
-- Fork this repository
-- Clone your fork on your pc
+- Get to your submission folder under the folder exercises/javascript-basics-03
 - Each step has a prepared html file to work with, use it
 - COMMIT AFTER EACH STEP, call each commit by the name of the step
 
