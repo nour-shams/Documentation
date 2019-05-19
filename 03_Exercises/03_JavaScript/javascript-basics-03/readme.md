@@ -2,6 +2,8 @@
 
 - Get to your submission folder under exercises/javascript-basics-03
 - Each step has a prepared html file to work with, use it
+- You should create a javascript file for each step whitin the step folder.
+> e.g : step_1 => index.html + Step_1.js 
 - COMMIT AFTER EACH STEP, call each commit by the name of the step
 
 ## Goals:
