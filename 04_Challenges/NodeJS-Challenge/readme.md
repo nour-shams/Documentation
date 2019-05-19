@@ -1,4 +1,4 @@
-# Javascript - Base 6 - Building command line applications
+# Node.js Challenge : Building command line applications
 
 We're going to create a simple command-line application.
 This application will allow to enter tasks, delete tasks, edit tasks, and list all tasks.
@@ -39,8 +39,8 @@ task 2 is marked as checked
 
 ## Pre-requisites:
 
-- Fork this repository
-- Clone your fork on your pc
+- Javascript Basics 01-04
+- Javascript Basics 05 (Lab)
 - Install [Node.js](https://nodejs.org/)
 
 ## Goals:
