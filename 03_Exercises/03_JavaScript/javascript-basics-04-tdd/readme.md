@@ -25,8 +25,7 @@ You will find a series of test which, originally, do not work. The tests are che
 
 ## Instructions
 
-- Fork this repository
-- Clone your fork on your pc
+- Get to your submission folder under the folder exercises/javascript-basics-04
 
 1. Run `SpecRunner.html` in your browser
 2. Open `questions.spec.js` in your editor
@@ -35,4 +34,4 @@ You will find a series of test which, originally, do not work. The tests are che
 5. Refresh `specRunner.html` in your browser (<kbd>f5</kbd> or <kbd>ctrl</kbd>+<kbd>r</kbd>)
 6. You should see the first red mark become a green mark, which means the first test is passing. If it does, congrats! Go to the next test. If it doesn't, keep trying
 7. Once you get to the `createLanguagesArray` function, commit <kbd>🔑🔑</kbd>
-8. When you're done, submit a pull/merge request <kbd>🔑🔑🔑</kbd>
+8. When you're done, submit a pull request <kbd>🔑🔑🔑</kbd>

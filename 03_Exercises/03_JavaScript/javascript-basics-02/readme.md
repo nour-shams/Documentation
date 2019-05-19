@@ -1,7 +1,6 @@
 # Javascript Basics 2 - Working with the DOM
 
-- Fork this repository
-- Clone your fork on your pc
+- Get to your submission folder under exercises/javascript-basics-02
 - Each step has a prepared html file to work with, use it
 - COMMIT AFTER EACH STEP, call each commit by the name of the step
 
@@ -61,4 +60,4 @@
 ## Congrats!
 
 You finished Javascript Basics 1!
-Send a merge/pull request
+Send a pull request

@@ -1,7 +1,6 @@
 # JavaScript Basics 1 - Variables, Functions, and Branching
 
-- Fork this repository
-- Clone your fork on your pc
+- Get to your submission folder under exercises/javascript-basics-01
 - Each step has a prepared html file to work with, use it
 - COMMIT AFTER EACH STEP, call each commit by the name of the step
 
@@ -29,7 +28,7 @@
 ## Step 2 : Variables 2
 
 1. Define three variables: `name`, `surname` and `city`.
-2. Show them like in the [image](step_2.png)
+2. Show them like in the ![](Step_2.png)
 3. Commit!
 
 ## Step 3 : Strings concatenation
@@ -81,4 +80,4 @@
 ## Congrats!
 
 You finished Javascript Basics 1!
-Send a merge/pull request
+Send a pull request.
