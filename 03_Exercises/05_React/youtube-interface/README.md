@@ -2,8 +2,8 @@
 
 ## Goal:
 
-- Learn how to read documentation
-- Get introduced to React
+- Learn how to read documentation.
+- Get introduced to React.
 
 ## References
 
@@ -15,7 +15,7 @@
 ## Tasks:
 
 1. Read, read and read.
-1. Read all the exercise before starting
+1. Read all the exercise before starting.
 1. Implement the style depicted in [youtube.com.png](youtube.com.png). Try to get as close as possible you can using Bootstrap or Material UI.
 1. Give the user the auto suggest option when typing in the search box.
 1. When a user selects a video from the search list, display that video plus 20 related videos.
@@ -34,8 +34,8 @@
 ### 2 - Read & prepare to use Youtube API documentation
 
 1. You don't know about API ? [>> click me <<](http://bit.ly/2K0xuNw)
-1. Before starting follow the instructions that are available [here](https://developers.google.com/youtube/v3/getting-started)
-1. Give a quick eye on whats can be done using Youtube API [check here](https://developers.google.com/youtube/v3/docs/)
+1. Before starting follow the instructions that are available [here](https://developers.google.com/youtube/v3/getting-started).
+1. Take a quick look on what can be done using Youtube API [check here](https://developers.google.com/youtube/v3/docs/).
 
 
 ### 3 - Implement Youtube Style:
