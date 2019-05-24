@@ -66,5 +66,5 @@
 1. Don't forget to push back changes from time to time (`git add -A`, then `git commit -m "message"` then `git push -u origin master`).
 1. When you're satisfied, submit a *Pull Request* on github.
 1. You don't need to follow the structure of the react example in [CodeSandbox](https://codesandbox.io/s/441z8w4n4).
-1. Know what is react by hacking what's already available inside the [codeSandbox](https://codesandbox.io/s/ilzs7)
+1. Know what is react by hacking what's already available inside the [codeSandbox](https://codesandbox.io/s/4w1qzoz54x).
 1. **Note** You CANNOT use any library that simplifies the API communication with YouTube.
