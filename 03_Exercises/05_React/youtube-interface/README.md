@@ -7,7 +7,7 @@
 
 ## References
 
-- Youtube API documentation: https://developers.google.com/youtube/v3/docs/
+- YouTube API documentation: https://developers.google.com/youtube/v3/docs/
 - Create React app: https://facebook.github.io/create-react-app/docs/getting-started
 - React Step 1: https://reactjs.org/docs/hello-world.html
 - React an example that you could hack [CodeSandbox](https://codesandbox.io/s/441z8w4n4)
@@ -31,14 +31,14 @@
 1. Run `npm install` inside the terminal.
 1. To start the react application run `npm run start` inside the terminal.
 
-### 2 - Read & prepare to use Youtube API documentation
+### 2 - Read & prepare to use YouTube API documentation
 
 1. You don't know about API ? [>> click me <<](http://bit.ly/2K0xuNw)
 1. Before starting follow the instructions that are available [here](https://developers.google.com/youtube/v3/getting-started).
 1. Take a quick look on what can be done using Youtube API [check here](https://developers.google.com/youtube/v3/docs/).
 
 
-### 3 - Implement Youtube Style:
+### 3 - Implement YouTube Style:
 
 1. You can use Material UI Library [here](https://material-ui.com/).
 1. Inside the `src/App.css` add your CSS.
