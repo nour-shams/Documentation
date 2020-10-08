@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<script>
+    let randomNumber = Math.floor(Math.random() * 100) + 1;
+            
+            
+            for(let i = 1; i <= 8; i++){
+          let guess = prompt("guess a number between 1 and 100: ") * 1;
+ 
+          if(guess > randomNumber){
+ 
+            alert("your number is too large");
+          } else if(guess < randomNumber) 
+          {
+            alert("your number is too small");
+ 
+          } else if(guess == randomNumber) 
+          {
+              alert("Congrats you guessed the number!!");
+              
+          }
+          
+            if(i == 8)
+            {
+             alert("Game Over.");
+             break;
+          }
+            }
+</script>
+</body>
+</html>
