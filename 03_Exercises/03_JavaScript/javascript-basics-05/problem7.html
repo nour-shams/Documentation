@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+
+        for (let counter = 2; counter <= 30; counter++) {
+        
+        let notPrime = false;
+        for (let i = 2; i <= counter; i++) {
+            if (counter % i === 0 && i !== counter) {
+                notPrime = true;
+            }
+        }
+        if (notPrime === false) {
+                    document.writeln(counter);
+        }
+        }
+        
+            </script>
+</body>
+</html>
